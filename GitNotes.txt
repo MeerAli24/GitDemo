@@ -1,0 +1,9 @@
+Hello how are you, hey who are you to ask, 11-10-2023
+
+
+
+git init  -> to create an local repository
+git add .  -> to add all file
+git add file.name -> to add one file to the local repository
+git commit -m "any message"  -> to commit the changes in repository
+git push origin branchName  -> to push the code present in local repository to remote repository in paticular branch
